@@ -16,6 +16,10 @@ disso.
 
 Atualmente sou bolsista na  Generation Brasil  (ONG) que realiza um BootCamp voltado para formação de pessoas Desenvolvedoras Web Full Stack Júnior.
 
+<P>📍 Jabaquara - São Paulo/SP </P>
+<p>💼 Disponível</P>
+
+
 <h6 align="center"> 🌈Entre em contato comigo:  </h6>
 
 <p align="center">
@@ -24,6 +28,8 @@ Atualmente sou bolsista na  Generation Brasil  (ONG) que realiza um BootCamp vol
 &nbsp;&nbsp; <a align="center" href="rebecca_medeiros_ramaldes@hotmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
  
 </p>
+
+
 
 <br>
 <br>
